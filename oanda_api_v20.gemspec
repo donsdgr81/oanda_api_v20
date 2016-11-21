@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'http://rubygems.org/gems/oanda_api_v20'
   s.license     = 'MIT'
 
-  s.required_ruby_version = '>= 2.3.0'
+  s.required_ruby_version = '>= 2.1.7'
 
   s.add_dependency 'httparty',            '~> 0.13'
   s.add_dependency 'persistent_httparty', '~> 0.1'
